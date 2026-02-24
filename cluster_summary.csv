@@ -1,0 +1,7 @@
+,CustomerID,Recency,Frequency,Monetary,Monetary,R_Score,F_Score,M_Score
+,count,mean,mean,mean,sum,mean,mean,mean
+Cluster_Name,,,,,,,,
+Cluster 0: Dormant/Churned,3594,26.34,4.55,2194.5,7887038,1.0,1.71,2.13
+Cluster 1: High-Value Engaged,4907,2.5,15.4,3226.71,15833470,3.01,3.12,3.19
+Cluster 2: VIP Champions,6767,0.49,33.67,44247.51,299422908,4.41,4.58,4.39
+Cluster 3: Dormant/Churned,4781,4.06,3.35,69.93,334347,2.49,1.61,1.5
